@@ -1,0 +1,642 @@
+[
+  {
+    "id": "jd1",
+    "jd_text": "We are seeking a Python Developer with experience in machine learning, data analysis, and deep learning frameworks such as TensorFlow or PyTorch. Must have strong problem-solving skills and experience with REST APIs."
+  },
+  {
+    "id": "jd2",
+    "jd_text": "Looking for a Data Scientist with expertise in statistics, Python, and SQL. Experience with data visualization libraries (Matplotlib, Seaborn) and machine learning pipelines is required."
+  },
+{
+    "id": "jd3",
+    "jd_text": "Frontend Developer needed with strong skills in React.js, JavaScript, HTML5, CSS3. Familiarity with state management libraries (Redux) and responsive web design is a must."
+},
+  {
+    "id": "jd4",
+    "jd_text": "Seeking a Full Stack Developer experienced with Node.js, Express, MongoDB, and React. Experience building RESTful APIs and cloud deployment (AWS, Azure) preferred."
+  },
+  {
+    "id": "jd5",
+    "jd_text": "Looking for a Project Manager with PMP certification and experience in Agile/Scrum methodologies. Must have strong leadership and organizational skills for managing IT projects."
+  },
+  {
+    "id": "jd6",
+    "jd_text": "Data Analyst required with strong SQL skills, experience in Excel and Tableau. Must be able to analyze large datasets, generate insights, and create dashboards for stakeholders."
+  },
+  {
+    "id": "jd7",
+    "jd_text": "DevOps Engineer with experience in CI/CD pipelines, Docker, Kubernetes, and cloud infrastructure (AWS, GCP, Azure). Knowledge of monitoring and logging tools is a plus."
+  },
+  {
+    "id": "jd8",
+    "jd_text": "Software Engineer needed with experience in Java, Spring Boot, and microservices architecture. Familiarity with relational databases and Git is required."
+  },
+  {
+    "id": "jd9",
+    "jd_text": "UI/UX Designer with expertise in Figma, Adobe XD, and prototyping tools. Must have a strong portfolio and experience designing responsive web and mobile interfaces."
+  },
+  {
+    "id": "jd10",
+    "jd_text": "Machine Learning Engineer with experience in natural language processing, Python, and scikit-learn. Must be able to preprocess data, train models, and deploy ML solutions."
+  },
+{
+    "id": "jd11",
+    "jd_text": "Cybersecurity Analyst needed with knowledge of network security, threat analysis, and incident response. Experience with security tools like SIEM, firewalls, and vulnerability assessment is required."
+},
+{
+    "id": "jd12",
+    "jd_text": "Mobile Developer (iOS/Android) with strong experience in native app development (Swift/Kotlin) and familiarity with RESTful APIs, UI/UX best practices, and performance optimization. Experience with app store deployment is a plus."
+},
+{
+    "id": "jd13",
+    "jd_text": "QA Automation Engineer required to design and implement automated test frameworks using Selenium, Cypress, or Playwright. Strong scripting skills (Python, JavaScript, or Java) and experience with CI pipelines are expected."
+},
+{
+    "id": "jd14",
+    "jd_text": "Cloud Engineer with hands-on experience in AWS or Azure, including IaC tools (Terraform, CloudFormation), container orchestration, and cost optimization. Familiarity with security and networking in cloud environments is preferred."
+},
+{
+    "id": "jd15",
+    "jd_text": "Data Engineer needed to build scalable ETL pipelines using Spark, Airflow, or similar tools. Strong SQL abilities, experience with data warehousing (Redshift, BigQuery), and Python/Scala programming required."
+},
+{
+    "id": "jd16",
+    "jd_text": "Machine Learning Researcher focused on computer vision or NLP, with experience in model development, experimentation, and publication-quality results. Proficiency in PyTorch or TensorFlow and strong mathematics background required."
+},
+{
+    "id": "jd17",
+    "jd_text": "Product Manager with experience in B2B SaaS products, strong stakeholder management, roadmap planning, and data-driven decision making. Familiarity with Agile methodologies and product analytics tools is required."
+},
+{
+    "id": "jd18",
+    "jd_text": "Site Reliability Engineer responsible for maintaining high availability of production services, implementing observability (Prometheus, Grafana), automating operations, and incident response. Strong Linux and networking skills required."
+},
+{
+    "id": "jd19",
+    "jd_text": "Backend Developer experienced in Go or Java, building high-performance microservices, working with message queues (Kafka, RabbitMQ), and designing robust API contracts. Knowledge of databases and distributed systems is essential."
+},
+{
+    "id": "jd20",
+    "jd_text": "Frontend Engineer skilled in TypeScript and modern frameworks (React, Vue, or Angular). Strong CSS skills, component-driven design, accessibility awareness, and experience with frontend testing libraries required."
+},
+{
+    "id": "jd21",
+    "jd_text": "DevOps Engineer to build CI/CD pipelines, manage containerization with Docker, and orchestrate Kubernetes clusters. Experience with monitoring, log aggregation, and automation scripting required."
+},
+{
+    "id": "jd22",
+    "jd_text": "Business Analyst with strong analytical and communication skills to gather requirements, model business processes, and collaborate with engineering teams. Experience with SQL and visualization tools (Tableau, Power BI) preferred."
+},
+{
+    "id": "jd23",
+    "jd_text": "Database Administrator proficient in PostgreSQL or MySQL, including backup/restore, performance tuning, replication, and security hardening. Experience with cloud-managed databases desirable."
+},
+{
+    "id": "jd24",
+    "jd_text": "Embedded Software Engineer experienced with C/C++ for microcontrollers, real-time operating systems, and hardware debugging. Knowledge of communication protocols (I2C, SPI, UART) and firmware development required."
+},
+{
+    "id": "jd25",
+    "jd_text": "Full Stack Developer experienced in Python/Django or Node.js and modern frontend frameworks. Comfortable owning features end-to-end, writing tests, and deploying to cloud environments."
+},
+{
+    "id": "jd26",
+    "jd_text": "Data Visualization Engineer to design and implement dashboards and interactive visualizations using D3, Vega, or BI tools. Strong frontend skills and a solid understanding of data storytelling required."
+},
+{
+    "id": "jd27",
+    "jd_text": "NLP Engineer needed to build language models and text processing pipelines. Experience with transformers, tokenization, and evaluation metrics, as well as proficiency in Python and Hugging Face libraries, required."
+},
+{
+    "id": "jd28",
+    "jd_text": "Robotics Software Engineer with experience in ROS, sensor integration, perception, and control systems. Strong C++/Python skills and familiarity with SLAM or motion planning are a plus."
+},
+{
+    "id": "jd29",
+    "jd_text": "Technical Support Engineer to troubleshoot customer issues, analyze logs, and work closely with development teams. Strong Linux, networking, and scripting (Bash/Python) skills required."
+},
+{
+    "id": "jd30",
+    "jd_text": "Performance Engineer focused on load testing and performance tuning of web applications. Experience with JMeter, Gatling, or Locust and knowledge of profiling and optimization techniques required."
+},
+{
+    "id": "jd31",
+    "jd_text": "Blockchain Developer skilled in smart contract development (Solidity), familiarity with Ethereum or EVM-compatible chains, and experience building secure decentralized applications and testing frameworks."
+},
+{
+    "id": "jd32",
+    "jd_text": "QA Manual Tester to design test plans, execute test cases, report defects, and collaborate with cross-functional teams. Attention to detail and strong communication skills required."
+},
+{
+    "id": "jd33",
+    "jd_text": "ETL Developer experienced in designing data integration workflows, working with tools like Talend or Informatica, and writing robust SQL for data transformations. Experience with scheduling and monitoring jobs preferred."
+},
+{
+    "id": "jd34",
+    "jd_text": "AI Operations Engineer to manage model deployment, monitoring, and retraining pipelines. Experience with MLOps tools (MLflow, BentoML), containerization, and model performance monitoring required."
+},
+{
+    "id": "jd35",
+    "jd_text": "Systems Engineer with expertise in Linux administration, virtualization, and network services. Responsibilities include capacity planning, system hardening, and automation using configuration management tools."
+},
+{
+    "id": "jd36",
+    "jd_text": "Security Engineer specializing in application security, secure SDLC practices, code reviews, and threat modeling. Familiarity with SAST/DAST tools and secure coding standards required."
+},
+{
+    "id": "jd37",
+    "jd_text": "Game Developer experienced in Unity or Unreal Engine, strong C# or C++ skills, and a portfolio showcasing shipped titles or prototypes. Knowledge of graphics, physics, and optimization techniques preferred."
+},
+{
+    "id": "jd38",
+    "jd_text": "Salesforce Administrator/Developer to manage CRM customizations, Apex/Lightning components, and integrations. Strong declarative configuration skills and experience with user training and support required."
+},
+{
+    "id": "jd39",
+    "jd_text": "AR/VR Developer with experience building immersive applications using Unity, 3D modeling basics, and understanding of spatial computing platforms (HoloLens, Oculus). Performance and UX considerations are important."
+},
+{
+    "id": "jd40",
+    "jd_text": "Technical Program Manager to coordinate cross-team delivery, manage timelines, mitigate risks, and communicate status to stakeholders. Experience with software development lifecycle and Agile practices required."
+},
+{
+    "id": "jd41",
+    "jd_text": "Accessibility Engineer to ensure web applications meet WCAG standards, perform audits, implement accessible components, and collaborate with designers and developers to improve usability for all users."
+},
+{
+    "id": "jd42",
+    "jd_text": "AI Ethics Specialist to develop frameworks for responsible AI use, perform bias audits, create documentation for model governance, and advise on compliance and privacy considerations."
+},
+{
+    "id": "jd43",
+    "jd_text": "Computer Vision Engineer experienced in object detection, segmentation, and video analytics. Proficiency with OpenCV, PyTorch, TensorFlow, and experience deploying models to edge devices preferred."
+},
+{
+    "id": "jd44",
+    "jd_text": "Speech Recognition Engineer to build and optimize ASR systems, work with audio preprocessing, feature extraction, and deep learning models for speech-to-text and speaker identification tasks."
+},
+{
+    "id": "jd45",
+    "jd_text": "Grafana/Observability Engineer to design dashboards, alerts, and metrics pipelines; integrate logs, traces, and metrics; and improve system observability and incident response processes."
+},
+{
+    "id": "jd46",
+    "jd_text": "Platform Engineer focused on internal developer platforms, automation, self-service tooling, and improving developer experience with infrastructure-as-code and CI/CD best practices."
+},
+{
+    "id": "jd47",
+    "jd_text": "ETL/Streaming Engineer with experience building real-time data pipelines using Kafka, Flink, or Spark Streaming. Strong knowledge of data schemas, partitioning, and fault-tolerance patterns required."
+},
+{
+    "id": "jd48",
+    "jd_text": "Big Data Architect to design data lake and warehouse solutions, optimize storage and query performance, and select appropriate technologies (Hadoop, Snowflake, BigQuery) for scale."
+},
+{
+    "id": "jd49",
+    "jd_text": "SaaS Growth Engineer to implement analytics instrumentation, run A/B tests, and build growth experiments. Experience with product analytics tools and user segmentation required."
+},
+{
+    "id": "jd50",
+    "jd_text": "Embedded Systems Firmware Engineer to develop low-level firmware for IoT devices, work with RTOS, memory-constrained environments, and collaborate with hardware engineers for system integration."
+},
+{
+    "id": "jd51",
+    "jd_text": "Algorithm Engineer to prototype and optimize algorithms for search, recommendation, or ranking systems. Strong math background, C++/Python skills, and experience with large-scale evaluation required."
+},
+{
+    "id": "jd52",
+    "jd_text": "Localization Engineer to manage internationalization pipelines, automate translation workflows, integrate with CI, and ensure proper encoding/locale handling across platforms."
+},
+{
+    "id": "jd53",
+    "jd_text": "Site Reliability Architect to design resilient architectures, define SLAs/SLOs, guide capacity planning, and lead large-scale incident postmortems and remediation efforts."
+},
+{
+    "id": "jd54",
+    "jd_text": "Data Privacy Engineer to implement data access controls, anonymization and masking pipelines, ensure GDPR/CCPA compliance, and build tooling for data discovery and lineage."
+},
+{
+    "id": "jd55",
+    "jd_text": "Game Engine Programmer experienced in rendering pipelines, performance optimization, and engine-level systems. Proficiency in C++ and graphics APIs (DirectX, Vulkan, OpenGL) required."
+},
+{
+    "id": "jd56",
+    "jd_text": "Hardware Validation Engineer to write test plans, automate test benches for ASIC/FPGA, debug hardware/software integration issues, and collaborate with SoC teams for silicon bring-up."
+},
+{
+    "id": "jd57",
+    "jd_text": "Full Stack Data Platform Engineer to build internal tools for dataset management, feature stores, model registries, and enable data scientists to iterate quickly and reproducibly."
+},
+{
+    "id": "jd58",
+    "jd_text": "Research Engineer focusing on reinforcement learning and simulation environments. Experience with RL libraries, reward shaping, and running distributed experiments preferred."
+},
+{
+    "id": "jd59",
+    "jd_text": "Customer Reliability Engineer to work with customers on integration, performance tuning, and operational support for enterprise software, requiring strong communication and troubleshooting skills."
+},
+{
+    "id": "jd60",
+    "jd_text": "Integration Engineer to design and implement connectors and APIs for third-party services, ensure secure data flows, and maintain SDKs and documentation for partners."
+}, 
+{
+    "id": "jd61",
+    "jd_text": "Chief Technology Officer to set technical vision, lead engineering teams, oversee architecture decisions, and align technology strategy with business goals. Experience scaling engineering organizations and driving product innovation required."
+},
+{
+    "id": "jd62",
+    "jd_text": "VP of Engineering to manage multiple engineering teams, mentor senior leaders, define delivery processes, and collaborate with product and design to meet company objectives. Strong leadership and hiring experience required."
+},
+{
+    "id": "jd63",
+    "jd_text": "Technical Program Manager to coordinate cross-functional engineering projects, manage dependencies, run program reviews, and ensure on-time delivery of complex initiatives. Background in software development and stakeholder management expected."
+},
+{
+    "id": "jd64",
+    "jd_text": "Engineering Manager to lead a team of software engineers, run hiring and performance reviews, set technical priorities, and remove blockers to deliver high-quality products. Experience with Agile practices preferred."
+},
+{
+    "id": "jd65",
+    "jd_text": "Technical Project Manager specializing in delivering SaaS products, defining scope, tracking milestones, managing risks, and communicating status to executives. PMP or equivalent experience is a plus."
+},
+{
+    "id": "jd66",
+    "jd_text": "Technical Writer to create API documentation, user guides, developer tutorials, and release notes. Must be able to translate complex technical concepts into clear, concise content and work closely with engineering teams."
+},
+{
+    "id": "jd67",
+    "jd_text": "Developer Advocate to build community, create sample apps and SDKs, run workshops, and gather developer feedback to influence product direction. Strong coding skills and public speaking experience required."
+},
+{
+    "id": "jd68",
+    "jd_text": "Developer Relations Engineer to create demos, maintain developer-facing docs, support integrations, and act as a liaison between external developers and product teams. Experience with REST APIs and SDKs preferred."
+},
+{
+    "id": "jd69",
+    "jd_text": "Release Engineer to own build systems, CI/CD pipelines, release orchestration, and versioning strategies to ensure reliable software delivery. Familiarity with Jenkins, GitHub Actions, or similar tools required."
+},
+{
+    "id": "jd70",
+    "jd_text": "Build Engineer to maintain build infrastructure, automate compilation and packaging, optimize build times, and troubleshoot build failures across multiple platforms. Experience with Bazel, Gradle, or Makefiles useful."
+},
+{
+    "id": "jd71",
+    "jd_text": "Product Operations Manager to coordinate product launches, manage GTM processes, gather metrics, and streamline feedback loops between product, sales, and customer success teams. Strong data literacy required."
+},
+{
+    "id": "jd72",
+    "jd_text": "Data Governance Specialist to implement policies for data quality, metadata management, access controls, and lineage. Experience with data catalogs and compliance frameworks (GDPR/CCPA) expected."
+},
+{
+    "id": "jd73",
+    "jd_text": "Analytics Engineer to transform raw data into reliable models and tables, build ETL/ELT workflows, and maintain analytics datasets for BI consumption. Proficiency in dbt, SQL, and cloud warehouses required."
+},
+{
+    "id": "jd74",
+    "jd_text": "Business Intelligence Developer to design dashboards, write SQL for complex queries, and create KPIs and reports to support decision-making. Familiarity with Looker, Power BI, or Tableau preferred."
+},
+{
+    "id": "jd75",
+    "jd_text": "Data Steward to manage data definitions, ensure consistent usage across teams, resolve data issues, and collaborate with engineering and analytics to maintain data integrity."
+},
+{
+    "id": "jd76",
+    "jd_text": "Security Architect to design secure system architectures, perform threat modeling, set security standards, and guide developers on secure implementation patterns. Experience with cloud security and identity management required."
+},
+{
+    "id": "jd77",
+    "jd_text": "Application Security Engineer to implement secure coding practices, run security reviews, triage vulnerabilities, and integrate SAST/DAST tools into CI pipelines. Familiarity with OWASP standards expected."
+},
+{
+    "id": "jd78",
+    "jd_text": "Cloud Cost Optimization Engineer to analyze cloud spend, recommend cost-saving architectures, implement rightsizing and reserved instances, and build monitoring for cost anomalies."
+},
+{
+    "id": "jd79",
+    "jd_text": "Identity and Access Management Engineer to build and maintain authentication and authorization systems, manage SSO/OAuth/OIDC integrations, and enforce least-privilege access across services."
+},
+{
+    "id": "jd80",
+    "jd_text": "Observability Platform Engineer to design metrics, tracing, and logging standards, implement observability tooling, and build dashboards and alerts to improve incident response and reliability."
+},
+{
+    "id": "jd81",
+    "jd_text": "Incident Response Lead to run incident command during outages, coordinate cross-team remediation, perform postmortems, and drive reliability improvements based on root cause analysis."
+},
+{
+    "id": "jd82",
+    "jd_text": "Site Reliability Engineer (Edge Services) to manage globally distributed edge systems, optimize latency, and ensure resilience under traffic spikes. Experience with CDNs, edge compute, and routing required."
+},
+{
+    "id": "jd83",
+    "jd_text": "Database Performance Engineer to tune queries, design indexing strategies, manage capacity planning, and optimize OLTP/OLAP workloads for PostgreSQL, MySQL, or NoSQL databases."
+},
+{
+    "id": "jd84",
+    "jd_text": "ETL Architect to design robust data ingestion patterns, select appropriate tooling for batch and streaming, and ensure data reliability and observability across pipelines."
+},
+{
+    "id": "jd85",
+    "jd_text": "Streaming Data Engineer to build real-time pipelines, work with Kafka/Flink/Kinesis, ensure end-to-end delivery guarantees, and design schemas and partitioning strategies for scale."
+},
+{
+    "id": "jd86",
+    "jd_text": "Data Warehouse Engineer to design star schemas, optimize query performance, manage partitioning and clustering, and run cost-performance tradeoffs on BigQuery, Snowflake, or Redshift."
+},
+{
+    "id": "jd87",
+    "jd_text": "Front-End Accessibility Specialist to audit web apps for accessibility issues, implement WCAG-compliant components, and collaborate with designers to ensure inclusive user experiences."
+},
+{
+    "id": "jd88",
+    "jd_text": "Design Systems Engineer to build and maintain reusable UI components, enforce design tokens, document patterns, and ensure consistency across product surfaces using modern component frameworks."
+},
+{
+    "id": "jd89",
+    "jd_text": "Motion Designer to create micro-interactions, animated UI prototypes, and motion libraries that enhance product usability and delight users. Experience with After Effects or Lottie required."
+},
+{
+    "id": "jd90",
+    "jd_text": "Product Designer (Mobile) to own mobile UX and UI, conduct user research, prototype interactions, and work closely with mobile engineers to ship performant and delightful apps."
+},
+{
+    "id": "jd91",
+    "jd_text": "UX Researcher to run usability studies, build user personas, synthesize qualitative and quantitative insights, and inform product decisions with customer research."
+},
+{
+    "id": "jd92",
+    "jd_text": "Conversion Rate Optimization (CRO) Specialist to run A/B tests, analyze funnels, design experiments, and implement recommendations to increase activation and retention metrics."
+},
+{
+    "id": "jd93",
+    "jd_text": "Growth Product Manager to define and run experiments, prioritize growth initiatives, and work with engineering and analytics to scale user acquisition and engagement strategies."
+},
+{
+    "id": "jd94",
+    "jd_text": "Customer Success Engineer to onboard customers, provide technical enablement, troubleshoot integrations, and act as a customer advocate to improve product adoption."
+},
+{
+    "id": "jd95",
+    "jd_text": "Implementation Specialist to manage customer integrations, configure systems to requirements, write integration scripts, and ensure successful deployments for enterprise clients."
+},
+{
+    "id": "jd96",
+    "jd_text": "Solutions Architect to design end-to-end technical solutions for customers, prepare architecture diagrams, estimate costs, and support presales with technical demos and RFP responses."
+},
+{
+    "id": "jd97",
+    "jd_text": "Pre-Sales Engineer to work with sales teams to scope technical solutions, deliver proof-of-concepts, and address customer technical concerns during the buying process."
+},
+{
+    "id": "jd98",
+    "jd_text": "Technical Account Manager to maintain relationships with key accounts, provide strategic technical guidance, drive adoption, and coordinate cross-functional support for enterprise customers."
+},
+{
+    "id": "jd99",
+    "jd_text": "Customer Support Manager to lead a support team, define SLAs, implement ticketing workflows, and drive improvements in response times and issue resolution quality."
+},
+{
+    "id": "jd100",
+    "jd_text": "Revenue Operations Analyst to align sales, marketing, and customer success data, build forecasting models, and implement processes and tooling to optimize revenue motions."
+},
+{
+    "id": "jd101",
+    "jd_text": "Site Reliability Consultant to assess existing infrastructure, recommend reliability improvements, implement SLOs/SLIs, and guide teams through operational runbooks and automation."
+},
+{
+    "id": "jd102",
+    "jd_text": "Performance QA Engineer to design performance test plans, run load and stress tests, analyze bottlenecks, and provide tuning recommendations for scalable systems."
+},
+{
+    "id": "jd103",
+    "jd_text": "Mobile QA Engineer to design test strategies for iOS and Android apps, automate end-to-end tests, validate releases across devices, and ensure app store compliance."
+},
+{
+    "id": "jd104",
+    "jd_text": "Hardware Design Engineer (Analog/RF) to design analog circuits, characterize RF front-ends, run signal integrity analysis, and collaborate with firmware teams for board bring-up."
+},
+{
+    "id": "jd105",
+    "jd_text": "FPGA Engineer to design high-performance logic using VHDL/Verilog, implement timing-optimized systems, and verify designs on FPGA platforms for embedded and accelerator projects."
+},
+{
+    "id": "jd106",
+    "jd_text": "ASIC Design Engineer to work on RTL design, synthesis, timing closure, and collaborate with verification teams to bring silicon to tape-out. Familiarity with standard cell flows required."
+},
+{
+    "id": "jd107",
+    "jd_text": "Hardware Test Engineer to develop test benches, automation scripts, and validation frameworks for electronics manufacturing and verification of board-level functionality."
+},
+{
+    "id": "jd108",
+    "jd_text": "Embedded Systems Test Automation Engineer to create hardware-in-the-loop tests, automate regression for firmware, and instrument systems for continuous validation."
+},
+{
+    "id": "jd109",
+    "jd_text": "Analog Layout Engineer to implement PCB layouts for mixed-signal designs, ensure signal integrity, and work with fabrication vendors to meet manufacturing constraints."
+},
+{
+    "id": "jd110",
+    "jd_text": "Systems Integrator to combine hardware and software subsystems, manage interface contracts, perform integration testing, and lead system-level troubleshooting during deployments."
+},
+{
+    "id": "jd111",
+    "jd_text": "Robotics Systems Architect to design perception-to-control pipelines, define communication protocols between modules, and ensure safe operation of autonomous systems."
+},
+{
+    "id": "jd112",
+    "jd_text": "Control Systems Engineer to design and tune feedback controllers, simulate dynamic systems, and implement real-time control algorithms on embedded hardware."
+},
+{
+    "id": "jd113",
+    "jd_text": "Simulation Engineer to build physics-based simulators, implement synthetic test scenarios, and support training pipelines for ML or control systems using realistic simulated environments."
+},
+{
+    "id": "jd114",
+    "jd_text": "Computer Graphics Engineer to implement rendering algorithms, optimize GPU pipelines, and work on shaders and real-time visual effects for games or visualization tools."
+},
+{
+    "id": "jd115",
+    "jd_text": "Audio Engineer to develop audio processing pipelines, work on DSP algorithms, codecs, and optimize latency and quality for voice and music applications."
+},
+{
+    "id": "jd116",
+    "jd_text": "DevSecOps Engineer to embed security into CI/CD, automate compliance checks, manage secrets and key rotation, and collaborate with developers to secure deployments."
+},
+{
+    "id": "jd117",
+    "jd_text": "Platform Security Engineer to harden infrastructure, implement network segmentation, and design secure baseline configurations for cloud and on-prem systems."
+},
+{
+    "id": "jd118",
+    "jd_text": "Penetration Tester to perform red team exercises, identify vulnerabilities, exploit chains, and deliver remediation guidance and security hardening recommendations."
+},
+{
+    "id": "jd119",
+    "jd_text": "Privacy Engineer to design privacy-preserving data flows, implement anonymization and differential privacy techniques, and ensure product features meet regulatory requirements."
+},
+{
+    "id": "jd120",
+    "jd_text": "Compliance Engineer to implement controls for industry standards (SOC2, ISO27001), maintain evidence, and collaborate with internal audit and legal teams."
+},
+{
+    "id": "jd121",
+    "jd_text": "Legal Tech Engineer to build tools that streamline contract review, implement document automation, and integrate legal workflows with engineering systems."
+},
+{
+    "id": "jd122",
+    "jd_text": "Platform Reliability Engineer to maintain internal platforms, improve developer workflows, manage platform APIs, and ensure platform SLAs for internal tooling."
+},
+{
+    "id": "jd123",
+    "jd_text": "Infrastructure Engineer (Network) to design and operate WAN/LAN architectures, manage routing and switching, and ensure secure and performant network connectivity for distributed systems."
+},
+{
+    "id": "jd124",
+    "jd_text": "Edge Infrastructure Engineer to deploy and manage edge nodes, optimize resource utilization, and ensure secure connectivity and orchestration of edge workloads."
+},
+{
+    "id": "jd125",
+    "jd_text": "Rust Systems Developer to build performant system-level services in Rust, work on memory-safe concurrency, and integrate with existing microservice architectures."
+},
+{
+    "id": "jd126",
+    "jd_text": "Go Services Developer to implement scalable backend services in Go, write idiomatic code, optimize for concurrency, and ensure observability and test coverage."
+},
+{
+    "id": "jd127",
+    "jd_text": "Scala Engineer to develop data processing pipelines and backend services on the JVM, work with Akka or Spark, and write functional, testable code at scale."
+},
+{
+    "id": "jd128",
+    "jd_text": "C++ Systems Engineer to implement high-performance services, optimize memory and threading, and work on latency-sensitive components in distributed systems."
+},
+{
+    "id": "jd129",
+    "jd_text": "Functional Programmer (Haskell/Elixir) to build reliable, concurrent systems using functional paradigms and contribute to language-specific ecosystems and libraries."
+},
+{
+    "id": "jd130",
+    "jd_text": "Embedded Security Engineer to secure boot chains, protect firmware update mechanisms, implement secure enclaves, and perform hardware-rooted security design."
+},
+{
+    "id": "jd131",
+    "jd_text": "IoT Solutions Architect to design end-to-end IoT systems, select connectivity and device management strategies, and plan for scale and security of connected devices."
+},
+{
+    "id": "jd132",
+    "jd_text": "Field Applications Engineer to support customers on technical integration, deliver on-site or remote demos, and assist with troubleshooting high-priority production issues."
+},
+{
+    "id": "jd133",
+    "jd_text": "SaaS Operations Engineer to manage multi-tenant operations, automate maintenance tasks, handle tenant provisioning, and ensure compliance with SLAs for hosted services."
+},
+{
+    "id": "jd134",
+    "jd_text": "SRE Trainer to develop reliability curricula, run workshops on SRE best practices, mentor engineering teams, and help embed site reliability practices across the organization."
+},
+{
+    "id": "jd135",
+    "jd_text": "Technical Account Executive to bridge sales and technical engagements, understand customer technical requirements, and facilitate successful enterprise deployments."
+},
+{
+    "id": "jd136",
+    "jd_text": "Channel Partner Engineer to build integrations with partners, support partner-led implementations, and create joint technical collateral to accelerate partner success."
+},
+{
+    "id": "jd137",
+    "jd_text": "Localization Program Manager to coordinate translation workflows, maintain internationalization standards, and ensure localized releases meet quality and regional requirements."
+},
+{
+    "id": "jd138",
+    "jd_text": "Machine Learning Infrastructure Engineer to design training clusters, optimize GPU utilization, manage model versioning systems, and enable scalable ML experimentation."
+},
+{
+    "id": "jd139",
+    "jd_text": "Model Reliability Engineer to monitor ML model drift, implement canary deployments for models, build retraining pipelines, and ensure model performance in production."
+},
+{
+    "id": "jd140",
+    "jd_text": "Data Labeling Operations Lead to manage annotation workflows, vendor relationships, QA for labeled datasets, and scale labeling operations for supervised learning projects."
+},
+{
+    "id": "jd141",
+    "jd_text": "Annotation Specialist to design labeling guidelines, train annotators, perform QA on datasets, and collaborate with ML teams to ensure label consistency."
+},
+{
+    "id": "jd142",
+    "jd_text": "Ethical AI Program Manager to operationalize fairness audits, govern model usage policies, run stakeholder education, and maintain documentation for responsible AI practices."
+},
+{
+    "id": "jd143",
+    "jd_text": "Research Scientist (NLP/Multimodal) to lead experiments, publish findings, and prototype advanced models combining text, vision, and other modalities for applied research projects."
+},
+{
+    "id": "jd144",
+    "jd_text": "Quantitative Researcher to develop statistical models, backtest trading strategies or recommendation systems, and implement algorithms for large-scale evaluation."
+},
+{
+    "id": "jd145",
+    "jd_text": "Risk Engineer to model operational and technical risk, design mitigation strategies, and collaborate with security and legal teams to reduce company exposure."
+},
+{
+    "id": "jd146",
+    "jd_text": "Payments Engineer to integrate payment gateways, ensure PCI compliance, implement reconciliation flows, and handle fraud detection hooks within transactions."
+},
+{
+    "id": "jd147",
+    "jd_text": "Billing Systems Engineer to design invoicing systems, handle tax and subscription logic, implement metering and usage billing, and ensure accuracy and scalability."
+},
+{
+    "id": "jd148",
+    "jd_text": "Fraud Detection Engineer to build rule-based and ML systems to detect suspicious activity, reduce false positives, and integrate monitoring for behavioral patterns."
+},
+{
+    "id": "jd149",
+    "jd_text": "Compliance Analyst (Tech) to track regulatory changes affecting product features, audit controls, and support product teams to ensure regulatory alignment across markets."
+},
+{
+    "id": "jd150",
+    "jd_text": "Sustainability Engineer to measure product carbon footprint, recommend infrastructure optimizations, and design sustainability initiatives for engineering operations."
+},
+{
+    "id": "jd151",
+    "jd_text": "Accessibility Program Manager to drive accessibility roadmap, coordinate remediation efforts, and ensure compliance with accessibility laws and standards."
+},
+{
+    "id": "jd152",
+    "jd_text": "Training Content Developer to produce technical onboarding materials, internal wikis, and structured learning paths for engineers and new hires."
+},
+{
+    "id": "jd153",
+    "jd_text": "Onboarding Engineer to streamline first-week experiences for new customers, provide technical checklists, and automate common configuration steps to reduce time-to-value."
+},
+{
+    "id": "jd154",
+    "jd_text": "Observability SRE to build internal tooling for tracing and service maps, enforce telemetry standards, and help migrate teams to structured observability practices."
+},
+{
+    "id": "jd155",
+    "jd_text": "AI Product Manager to define product requirements for AI-enabled features, manage trade-offs between model capability and user experience, and prioritize roadmap items with data-driven validation."
+},
+{
+    "id": "jd156",
+    "jd_text": "AI Solutions Engineer to design and deploy custom ML solutions for clients, perform model fine-tuning, and integrate models into customer environments with monitoring and retraining plans."
+},
+{
+    "id": "jd157",
+    "jd_text": "Open Source Program Manager to lead community strategy, manage contributor programs, handle licensing and governance, and coordinate releases with external collaborators."
+},
+{
+    "id": "jd158",
+    "jd_text": "Community Manager (Dev) to engage developer communities, moderate forums, organize events, and cultivate contributors around the product ecosystem."
+},
+{
+    "id": "jd159",
+    "jd_text": "Technical Recruiter to source and evaluate engineering talent, run technical interview processes, build candidate pipelines, and partner with hiring managers to fill critical roles."
+},
+{
+    "id": "jd160",
+    "jd_text": "People Operations Partner to work with engineering leadership on talent strategy, performance frameworks, inclusion initiatives, and organizational design to support rapid team growth."
+}
+]
