@@ -1,9 +1,8 @@
-echo "streamlit==1.30.0
-pandas==2.3.3
-numpy==1.26.4
-scikit-learn==1.3.2
+streamlit==1.30.0
 docx2txt==0.9
 joblib==1.5.2
+scikit-learn==1.3.2
+numpy==1.26.4
+pandas==2.3.3
 sentence-transformers==2.2.2
-torch==2.9.0
-transformers==4.34.0" > requirements.txt
+nltk==3.8.1
